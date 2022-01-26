@@ -1,4 +1,4 @@
-# Deep-Learning-Adversarial-Attacks
+# Deep Learning Adversarial Attacks
 [AI Classifiers Robustness to Adversarial Attacks:  Manipulating Output of Classifiers by Small Input  Perturbations.](http://dx.doi.org/10.13140/RG.2.2.33337.29286)
 
 This repo contains the code for my graduation project [Thesis](http://dx.doi.org/10.13140/RG.2.2.33337.29286) performed at the University of California Irvine under the supervision of Pr. Zhiying WANG.
