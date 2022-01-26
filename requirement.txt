@@ -1,0 +1,15 @@
+numpy
+pandas
+torch
+torch.utils.data
+torch.nn.functional
+torchvision
+torchvision.utils 
+multiprocessing
+collections
+matplotlib.pyplot
+olympic
+sys
+typing
+functional
+livelossplot
