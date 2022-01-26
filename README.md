@@ -27,3 +27,5 @@ Finally, we present an evaluation of the proposed robustness enhancement method 
 
 # Result of classification of filters into Robust and Unrobust:
 ![](https://github.com/ghazigh/Deep-Learning-Adversarial-Attacks/blob/112a4b07fd1b0380fb9aad1176f4eb98147db27d/output_page-0001.jpg)
+
+To understand the code , I have provided a [jupyter notebook](https://github.com/ghazigh/Deep-Learning-Adversarial-Attacks/blob/5e484369c50eb6cef8dba079edac21bcf3a121a8/Creation_And_Study_Of_Adversarial_Examples.ipynb)
