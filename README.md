@@ -1,6 +1,8 @@
 # Deep Learning Adversarial Attacks
 [AI Classifiers Robustness to Adversarial Attacks:  Manipulating Output of Classifiers by Small Input  Perturbations.](http://dx.doi.org/10.13140/RG.2.2.33337.29286)
 
+![](https://github.com/ghazigh/Deep-Learning-Adversarial-Attacks/blob/112a4b07fd1b0380fb9aad1176f4eb98147db27d/Adv%20Example.jpg)
+
 This repo contains the code for my graduation project [Thesis](http://dx.doi.org/10.13140/RG.2.2.33337.29286) performed at the University of California Irvine under the supervision of Pr. Zhiying WANG.
 
 Please cite this paper if you use our code or system output.
@@ -22,3 +24,6 @@ In this project, we present the explanation of the existence of adversarial exam
 The project is motivated by two perspectives of the explanation of the existence of adversarial examples.
 
 Finally, we present an evaluation of the proposed robustness enhancement method based on the explanation, that proves the efficiency of the proposed solution that could be applied on bigger scale applications to show more concrete performance.
+
+# Result of classification of filters into Robust and Unrobust:
+![](https://github.com/ghazigh/Deep-Learning-Adversarial-Attacks/blob/112a4b07fd1b0380fb9aad1176f4eb98147db27d/output_page-0001.jpg)
